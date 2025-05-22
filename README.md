@@ -1,4 +1,4 @@
-###**Objectives of this project:-The goal of this project is to:**###
+### **Objectives of this project:-The goal of this project is to:** ###
 1)Examine the distribution of room categories, pricing, and availability among various neighborhoods.
 
 2)Explore hosting trends and how listings are managed over time.
