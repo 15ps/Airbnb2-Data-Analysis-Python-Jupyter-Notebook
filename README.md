@@ -1,4 +1,4 @@
-**Objectives of this project:-The goal of this project is to:**
+###**Objectives of this project:-The goal of this project is to:**###
 1)Examine the distribution of room categories, pricing, and availability among various neighborhoods.
 
 2)Explore hosting trends and how listings are managed over time.
@@ -9,7 +9,7 @@
 
 ---
 
-**Dataset:-The dataset contains 20,765 entries and 22 features**
+###**Dataset:-The dataset contains 20,765 entries and 22 features**###
 Columns/Features:
 1)name: Title of the Airbnb listing
 
@@ -29,7 +29,7 @@ Columns/Features:
 
 ---
 
-**Steps and Workflow**
+###**Steps and Workflow**###
 - **1. Data Cleaning**
 Handle missing data: price, neighborhood, and beds columns had null values.
 Fix data types: Converted last_review to a datetime object.
@@ -58,7 +58,7 @@ Bar Charts: Displaying room types and neighborhood group distributions.
 
 ---
 
-**Key Findings and Insights**
+###**Key Findings and Insights**###
 Price Trends:Manhattan has the most expensive listings, followed by Brooklyn.
 
 Entire homes/apartments cost significantly more than private or shared rooms.
@@ -73,7 +73,7 @@ Host Behavior:Some hosts manage multiple listings, indicating a trend toward pro
 
 ---
 
-**Recommendations**
+###**Recommendations**###
 For Guests:
 Look for listings with high availability and good reviews for a better experience.
 Private rooms in Brooklyn offer affordable stays compared to Manhattan.
@@ -84,5 +84,5 @@ Manage pricing effectively to compete within the borough's market.
 
 ---
 
-**Conclusion**
+###**Conclusion**###
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
